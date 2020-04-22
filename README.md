@@ -13,7 +13,8 @@ pod "RxCoreData", "~> 1.0.0"
 ```
 
 ## TODO
-- [ ] Add cocoapods support
+- [ ] cocoapods support
+- [ ] unit tests
 
 ## Author
 
