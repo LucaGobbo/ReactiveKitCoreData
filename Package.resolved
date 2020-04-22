@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "ReactiveKit",
+        "repositoryURL": "https://github.com/DeclarativeHub/ReactiveKit.git",
+        "state": {
+          "branch": null,
+          "revision": "a4bd85f5d17c44772f1914a1aa445a4c7794e489",
+          "version": "3.17.1"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
