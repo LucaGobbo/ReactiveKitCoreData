@@ -21,10 +21,10 @@ Pod::Spec.new do |s|
 ReactiveKit + coredata, based on RxCoreData
                        DESC
 
-  s.homepage         = 'https://github.com/Luca Gobbo/ReactiveKitCoreData'
-  s.license          = { :type => 'MIT', :file => 'README.md' }
+  s.homepage         = 'https://github.com/LucaGobbo/ReactiveKitCoreData'
+  s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Luca Gobbo' => 'l.gobbo@me.com' }
-  s.source           = { :git => 'https://github.com/Luca Gobbo/ReactiveKitCoreData.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/LucaGobbo/ReactiveKitCoreData.git', :tag => s.version.to_s }
   s.social_media_url = 'https://twitter.com/lucagobbo'
   s.swift_versions = '5.2'
   s.ios.deployment_target = '8.0'
