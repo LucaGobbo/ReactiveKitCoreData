@@ -6,10 +6,10 @@ A ReactiveKit port of [RxCoreData](https://github.com/RxSwiftCommunity/RxCoreDat
 
 ### CocoaPods
 
-To install RxCoreData via CocoaPods, simply add the following line to your Podfile:
+To install ReactiveKitCoreData via CocoaPods, simply add the following line to your Podfile:
 
 ```ruby
-pod "RxCoreData", "~> 1.0.0"
+pod "ReactiveKitCoreData", "~> 1.0.0"
 ```
 
 ## TODO
